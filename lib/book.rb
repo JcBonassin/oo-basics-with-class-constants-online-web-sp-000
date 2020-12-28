@@ -17,5 +17,3 @@ class Book
     GENRES << genre
   end
 end
-
-
